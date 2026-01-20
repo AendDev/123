@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\bin\Debug\ProjectT.exe.config
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\bin\Debug\ProjectT.exe
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\bin\Debug\ProjectT.pdb
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectTwo.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectT.Form1.resources
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectT.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectTwo.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectT.exe
+C:\Users\Пользователь\source\repos\SolutionMultyProject\ProjectT\obj\Debug\ProjectT.pdb
